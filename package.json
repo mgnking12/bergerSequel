@@ -1,11 +1,11 @@
 {
-    "name": "node_what_todo",
+    "name": "bergersequel",
     "version": "1.0.0",
     "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node app.js"
+        "start": "node server.js"
     },
     "author": "",
     "license": "ISC",
